@@ -2,7 +2,7 @@
 
 ## Description
 
-This is what I did for homework
+This is the first challenge assignment of the Coding Bootcamp. It shows a webpage that has been modified to be user-friendly.
 
 ## Installation
 
