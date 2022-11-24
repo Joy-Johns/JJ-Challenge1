@@ -6,9 +6,9 @@ This is what I did for homework
 
 ## Installation
 
-Right click on index.html
-Select "Open In Default Browser"
-Once it populates, you are free to click around and inspect the DevTools section.
+<br>Right click on index.html</br>
+<br>Select "Open In Default Browser"</br>
+<br>Once it populates, you are free to click around and inspect the DevTools section.</br>
 
 ## Usage
 
